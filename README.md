@@ -5,6 +5,13 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+# Steps to run the project
+Download the zip file or clone the repo and open in any editor(preferable VS Code).
+run "npm i" and install all dependencies and node modules (before starting the project make sure that all dependencies and libaries are sucessfully installed.
+now run "npm start" and you are ready to go
+live link- (https://frontend-task-digital-paani.vercel.app/)
+
+
 ## Available Scripts
 
 In the project directory, you can run:
