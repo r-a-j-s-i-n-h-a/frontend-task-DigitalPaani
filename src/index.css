@@ -1,0 +1,18 @@
+body {
+  text-align: center;
+  margin: 50px auto 0;
+  width: 90%;
+  max-width: 700px;
+  background-color: rgba(255, 255, 255, 0.5);
+  border-radius: 20px;
+  background-image: url("./sky.jpg");
+  /* background-size: cover; */
+  background-repeat: no-repeat;
+  background-position: center;
+  
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
