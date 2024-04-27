@@ -7,9 +7,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 # Steps to run the project
 Download the zip file or clone the repo and open in any editor(preferable VS Code).<br>
-run "npm i" and install all dependencies and node modules (before starting the project make sure that all dependencies and libaries are sucessfully installed.
-now run "npm start" and you are ready to go
-live link- (https://frontend-task-digital-paani.vercel.app/)
+Run "npm i" and install all dependencies and node modules (before starting the project make sure that all dependencies and libaries are sucessfully installed.<br>
+Now run "npm start" and you are ready to go <br>
+Live link- (https://frontend-task-digital-paani.vercel.app/) <br>
 
 
 ## Available Scripts
